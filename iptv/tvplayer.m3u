@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,BBC One
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=bbcone
+#EXTINF:-1,BBC Two
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=bbctwo
+#EXTINF:-1,BBC Four
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=bbcfour
+#EXTINF:-1,ITV
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=itv
+#EXTINF:-1,ITV 2
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=itv2
+#EXTINF:-1,ITV 3
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=itv3
+#EXTINF:-1,ITV 4
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=itv4
+#EXTINF:-1,ITVBe
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=itvbe
+#EXTINF:-1,Dave
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=dave
+#EXTINF:-1,Dave ja vu
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=davejavu
+#EXTINF:-1,Travel Channel
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=travelchannel
+#EXTINF:-1,Travel Channel +1
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=travelchannelplus1
+#EXTINF:-1,Channel 4
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=channel4
+#EXTINF:-1,More4
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=more4
+#EXTINF:-1,4Seven
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=4seven
+#EXTINF:-1,Five
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=five
+#EXTINF:-1,5STAR
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=5star
+#EXTINF:-1,Really
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=really
+#EXTINF:-1,Yesterday
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=yesterday
+#EXTINF:-1,Yesterday +1
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=yesterdayplus1
+#EXTINF:-1,Drama
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=drama
+#EXTINF:-1,Home
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=home
+#EXTINF:-1,Quest
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=quest
+#EXTINF:-1,Quest Red
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=questred
+#EXTINF:-1,Spike
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=spike
+#EXTINF:-1,Food Network
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=foodnetwork
+#EXTINF:-1,Food Network +1
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=foodnetworkplus1
+#EXTINF:-1,Bet:BlackEnt:TV
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=betblackenttv
+#EXTINF:-1,Free sports
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=freesports
+#EXTINF:-1,Failarmy
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=failarmy
+#EXTINF:-1,BBC Red Button
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=bbcredbutton
+#EXTINF:-1,Fashion TV
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=fashiontv
+#EXTINF:-1,S4C
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=s4c
+#EXTINF:-1,BBC Alba
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=bbcalba
+#EXTINF:-1,BBC News
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=bbcnews
+#EXTINF:-1,Together
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=together
+#EXTINF:-1,Notts TV
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=nottstv
+#EXTINF:-1,Fascination TV
+http://HOST_IP:STREAM_PORT/stream.php?provider=tvplayer&channel=fascinationtv
